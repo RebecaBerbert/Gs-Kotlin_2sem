@@ -3,7 +3,7 @@
 Global Solution 2026.2 · CitizenTech · Android Kotlin Developer
 
 **Equipe:** _[R&J Tech]_
-**Integrantes:** _[Rebeca Berbert Barcelos - 556683]_ · _[Julia Dutra — 557645]_
+**Integrantes:** _[Rebeca Berbert Barcelos - 556683]_ · _[Julia Mendes Pessoa Dutra — 557645]_
 
 ---
 
